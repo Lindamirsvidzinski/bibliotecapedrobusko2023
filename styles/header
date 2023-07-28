@@ -7,13 +7,14 @@
 
 }
 
-.cabecalho__menu{
+.cabecalho__menu-hamburguer{
   display: inline-block;
-  background-image: url("../img/Menu.svg");
-  background-repeat: no-repeat;
-  background-position: center;
+   background-position: center;
+   background-repeat: no-repeat;
   width: 24px;
   height: 24px;
+    background-position: center;
+    display: inline-block;
 }
 
 .conteiner{
